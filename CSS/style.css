@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+	background-color: #ffff;
+    font-size: 2.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+main {
+    background-color: #ffff;
+    max-height: 100%;
+    max-width: 100%;
+    position: relative;
+}
+nav {
+	background-color: #ffff;
+	position: absolute;
+
+}
+.bar {
+	content: "f0c9";
+	position: absolute;
+}
