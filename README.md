@@ -2,8 +2,7 @@
 
 > Positioning and Floating Elements
 
-
-
+![Screenshot of the page](screenshot-page.png)
 
 
 This project was on a New York Times Article.
