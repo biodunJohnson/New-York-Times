@@ -14,7 +14,7 @@ This project was on a New York Times Article.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/biodunJohnson/New-York-Times/new-york-times/index.html )
+[Live Demo Link](https://raw.githack.com/biodunJohnson/New-York-Times/master/index.html )
 
 
 ## Getting Started
